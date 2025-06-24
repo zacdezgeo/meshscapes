@@ -1,0 +1,18 @@
+site_name: Meshscapes
+site_url: https://example.com
+nav:
+  - Home: index.md
+  - Tutorials:
+      - Introduction: tutorials/intro.md
+  - Experiments:
+      - Overview: experiments/overview.md
+plugins:
+  - search
+  - mkdocs-jupyter
+theme:
+  name: material
+  features:
+    - content.code.annotate
+markdown_extensions:
+  - admonition
+  - codehilite
