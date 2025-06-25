@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+meshscapes.egg-info/PKG-INFO
+meshscapes.egg-info/SOURCES.txt
+meshscapes.egg-info/dependency_links.txt
+meshscapes.egg-info/entry_points.txt
+meshscapes.egg-info/requires.txt
+meshscapes.egg-info/top_level.txt

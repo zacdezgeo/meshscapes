@@ -2,17 +2,25 @@ site_name: Meshscapes
 site_url: https://example.com
 nav:
   - Home: index.md
+  - About: About.md
+  - Concepts:
+      - Overview: concepts/overview.md
   - Tutorials:
       - Introduction: tutorials/intro.md
   - Experiments:
       - Overview: experiments/overview.md
 plugins:
   - search
-  - mkdocs-jupyter
 theme:
   name: material
+  logo: assets/logo.png
+  font:
+    text: Roboto
+    code: Roboto Mono
   features:
     - content.code.annotate
 markdown_extensions:
   - admonition
   - codehilite
+extra_css:
+  - styles/extra.css

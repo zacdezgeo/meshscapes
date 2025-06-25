@@ -1,3 +1,13 @@
+Metadata-Version: 2.4
+Name: meshscapes
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: mkdocs-material>=9.6.14
+Requires-Dist: mkdocs-nbconvert>=0.3.1
+Requires-Dist: nbconvert==5.6.1
+
 # Meshscapes Documentation
 
 This repository contains the documentation source for the Meshscapes project built with [MkDocs](https://www.mkdocs.org/) and the [Material theme](https://squidfunk.github.io/mkdocs-material/).
