@@ -20,7 +20,9 @@ mkdocs serve
 3. Deploy to GitHub Pages:
 
 ```bash
-mkdocs gh-deploy
+make gh-deploy
 ```
+
+The site will be available at <https://zacdezgeo.github.io/meshscapes/>.
 
 Documentation files are located in the `docs/` directory.

@@ -1,6 +1,6 @@
 ## About Me
 
-I’m a geospatial enthusiast deeply inspired by the beautiful and innovative work of **Craig Taylor**, whose personal site [Mapzilla](https://mapzilla.co.uk/) showcases stunning experiments in 3D data visualization and spatial animation  [oai_citation:0‡linkedin.com](https://www.linkedin.com/posts/craig-taylor-78242615_dataviz-3d-map-activity-7252967761671335936-nVRF?utm_source=chatgpt.com) [oai_citation:1‡mapzilla.co.uk](https://mapzilla.co.uk/?utm_source=chatgpt.com).
+I’m a geospatial enthusiast deeply inspired by the beautiful and innovative work of **Craig Taylor**, whose personal site [Mapzilla](https://mapzilla.co.uk/) showcases stunning experiments in 3D data visualization and spatial animation.
 
 I created **Meshscapes** to document my own journey—collecting learnings, code, and experiments—for both my future self and anyone interested in transforming geospatial data into animated 3D scenes and printable terrain models.
 
@@ -12,4 +12,4 @@ I created **Meshscapes** to document my own journey—collecting learnings, code
 
 ### Contact
 
-Please feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/zacdeziel/) or [email](zachary.deziel@gmail.com)
+Please feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/zacdeziel/) or [email](mailto:zachary.deziel@gmail.com)
